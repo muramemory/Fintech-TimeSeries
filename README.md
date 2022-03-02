@@ -52,7 +52,7 @@ Linear regression models predicts the future exchange rate. Utilising lagged ret
 
 ![ARMA Model Results](Images/prediction_returns_regression.png)
 
-Furthermore, the results of the in sample and out of sample data shows the variance and which dataset is better to use for predictions. The lower the variance the higher the accuracy. Turns of the out of sample data has higher accuracy.
+Furthermore, the results of the in sample and out of sample data shows the variance and which dataset is better to use for predictions. The lower the variance the higher the accuracy. Turns out that the out of sample data has higher accuracy.
 
 ![In Sample](Images/in_sample_result.png)
 
@@ -60,20 +60,22 @@ Furthermore, the results of the in sample and out of sample data shows the varia
 
 # Conclusion
 
-**Question:** Do you see any patterns, long-term and/or short?
+**Question:** Do you see any patterns, long-term and/or short?  
 **Answer:** The Canadian Dollar-Yen exchange rate is in a downward trend, slowly decreasing over time with slight corrections to the upside but followed by further drops in price.
 
-**Question:** Based on the p-value, is the model a good fit?
+**Question:** Based on the p-value, is the model a good fit?  
 **Answer:** This model shows the voltility of the returns in a linear spiked fashion and therefore is a good fit.
 
-**Question:** What does the model forecast will happen to the Japanese Yen in the near term?
+**Question:** What does the model forecast will happen to the Japanese Yen in the near term?  
 **Answer:** The model forcasts that the price of Yen will increase in the near term.
 
-**Question:** What does the model forecast will happen to volatility in the near term?
+**Question:** What does the model forecast will happen to volatility in the near term?  
 **Answer:** The model forcast shows us the Yen will continue to increase in value and experience volatility.
 
-**Question:** Does this model perform better or worse on out-of-sample data as compared to in-sample data?
+**Question:** Does this model perform better or worse on out-of-sample data as compared to in-sample data?  
 **Answer:** The out-of-sample data performs better has the mean squared error is less than the in-sample data, 0.644 vs 0.810. The lower the score the higher the accuracy is. Therefore the out-of-sample data is the winner in this scenario.
+
+### Conclusion Analysis
 
 1. Based on your time series analysis, would you buy the yen now?
 
