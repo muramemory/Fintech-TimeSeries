@@ -6,7 +6,9 @@
 
 ## Background
 
-This repository inludes a time series analysi and regression_analysis of the Canadian Dollar and Yen exchange rates.
+This repository inludes a time series analysis and regression_analysis of the Canadian Dollar and Yen exchange rates.
+
+Below are the links to the code files and data set and below that is the overview and analysis of the data.
 
 ### Files
 
