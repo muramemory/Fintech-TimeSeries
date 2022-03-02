@@ -26,11 +26,29 @@ The analysis showed that the Canadian dollar could purchase less and less Yen ov
 
 ![The-Yen-Comback](Images/devaluing_CAD.png)
 
-## 2.
+Furthermore, the price noise calculation shows high volatility in the exchange rate with a few periods of extremely high volatility due to global crises, indicating instability in price action.
 
-## 3.
+![Price Volatility](Images/CAD-PHY_price_noise.png)
 
-## 4.
+
+## 2. What does the Future Hold?
+
+Forcasting returns using the ARMA model shows us the predicted returns based off past returns. As we can see the Canadian dollar has been steadily purchasing less YEN per its dollar and thus the returns y value is negative.
+
+![ARMA Model Results](Images/ARMA_forcast_summary.png)
+
+![Price Volatility](Images/ARMA_forcast_plot.png)
+
+Furthermore, the ARIMA model shows us a descending price value, highlighting a continued drop in value of the Canadian dollar compared to the Yen.
+
+![ARMA Model Results](Images/ARIMA_forcast_summary.png)
+
+![Price Volatility](Images/ARIMA_forcast_plot.png)
+
+
+## 3. Decisions, Decisions, Decisions
+
+## 4. The Final Frontier
 
 
 #### Linear Regression Forecasting
