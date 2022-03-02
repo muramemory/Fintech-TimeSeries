@@ -18,7 +18,7 @@ This repository inludes a time series analysi and regression_analysis of the Can
 
 - - -
 
-### Overview/Analysis
+# Overview/Analysis
 
 ## 1. Decreasing Canadian Strength
 
