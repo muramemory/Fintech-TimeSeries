@@ -87,7 +87,7 @@ The risk of yen is expected to decrease due to its strength and stability, as co
     
 3. Based on the model evaluation, would you feel confident in using these models for trading?
 
-Yes, these models make it clear on potential directions of price of an asset and therefore would be good in making profitable trades in the market
+Yes, these models make it clear on potential directions of price of an asset and therefore would be good in making profitable trades in the market.
   
 - - -
 
