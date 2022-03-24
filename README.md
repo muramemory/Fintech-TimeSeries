@@ -69,10 +69,10 @@ Furthermore, the results of the in sample and out of sample data shows the varia
 **Answer:** This model shows the voltility of the returns in a linear spiked fashion and therefore is a good fit.
 
 **Question:** What does the model forecast will happen to the Japanese Yen in the near term?  
-**Answer:** The model forcasts that the price of Yen will increase in the near term.
+**Answer:** The model forecasts that the price of Yen will increase in the near term.
 
 **Question:** What does the model forecast will happen to volatility in the near term?  
-**Answer:** The model forcast shows us the Yen will continue to increase in value and experience volatility.
+**Answer:** The model forecast shows us the Yen will continue to increase in value and experience volatility.
 
 **Question:** Does this model perform better or worse on out-of-sample data as compared to in-sample data?  
 **Answer:** The out-of-sample data performs better has the mean squared error is less than the in-sample data, 0.644 vs 0.810. The lower the score the higher the accuracy is. Therefore the out-of-sample data is the winner in this scenario.
